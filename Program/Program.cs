@@ -1,32 +1,55 @@
-﻿namespace Program
+﻿using System.Transactions;
+
+namespace Program
 {
+    public class Circle
+    {
+        public int x;
+        public int y;
+        public float radius;
+        public Circle()
+        {
+            Console.WriteLine("Created Circle");
+        }
+    }
     internal class Program
     {
+        static void Collide(Circle origin, Circle other)
+        {
+            float deltaX = origin.x - other.x;
+            float deltaY = origin.y - other.y;
+
+            float radius = (origin.radius + other.radius) * (origin.radius + other.radius);
+
+            if (deltaX * deltaX + deltaY * deltaY <= radius)
+            {
+                Console.WriteLine("충돌O");
+            }
+            else
+            {
+                Console.WriteLine("충돌X");
+            }
+        }
+
         static void Main(string[] args)
         {
-            #region 박싱
-            // 값 타입을 객체로 변환하여 관리되는 힙 영역에 새로운 객체를
-            // 만들고 복사하는 과정입니다.
-            //
-            //int count = 8;
-            //object clone = count;
-            //
-            //Console.WriteLine("count : " + count);
-            //Console.WriteLine("clone : " + clone);            
-            #endregion
+            #region 매개 변수 한정
+            // 인수가 함수에 전달되는 방식과 사용 규칙을 제어하는 한정자입니다.
 
-            #region 언박싱
-            // 관리되는 힙에 있는 박싱되어있는 객체에서 값을 꺼내
-            // 값타입으로 복사하는 과정입니다.
-            //
-            //long experience = 2000;
-            //object adress = experience;
-            //
-            //long data = (long)adress;
-            //
-            //Console.WriteLine("experience : " + experience);
-            //Console.WriteLine("adress : " + adress);
-            //Console.WriteLine("data : " + data);
+            Circle circle = new Circle(); // Circle circle = new();
+
+            circle.x=5;
+            circle.y=5;
+            circle.radius=1.0f;
+
+            Circle quadrant = new Circle();
+
+            quadrant.x = 1;
+            quadrant.y = 2;;
+            quadrant.radius = 1.0f;
+
+            Collide(circle, quadrant);
+
             #endregion
         }
     }
