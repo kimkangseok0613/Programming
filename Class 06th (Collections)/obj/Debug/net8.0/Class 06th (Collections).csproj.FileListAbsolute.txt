@@ -1,0 +1,15 @@
+C:\gitFolder\Programming\Class 06th (Collections)\bin\Debug\net8.0\Class 06th (Collections).exe
+C:\gitFolder\Programming\Class 06th (Collections)\bin\Debug\net8.0\Class 06th (Collections).deps.json
+C:\gitFolder\Programming\Class 06th (Collections)\bin\Debug\net8.0\Class 06th (Collections).runtimeconfig.json
+C:\gitFolder\Programming\Class 06th (Collections)\bin\Debug\net8.0\Class 06th (Collections).dll
+C:\gitFolder\Programming\Class 06th (Collections)\bin\Debug\net8.0\Class 06th (Collections).pdb
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).GeneratedMSBuildEditorConfig.editorconfig
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).AssemblyInfoInputs.cache
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).AssemblyInfo.cs
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).csproj.CoreCompileInputs.cache
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).sourcelink.json
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).dll
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\refint\Class 06th (Collections).dll
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).pdb
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\Class 06th (Collections).genruntimeconfig.cache
+C:\gitFolder\Programming\Class 06th (Collections)\obj\Debug\net8.0\ref\Class 06th (Collections).dll
