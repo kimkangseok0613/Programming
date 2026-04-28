@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitFolder\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {}
   },
   "projects": {
-    "C:\\gitFolder\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitFolder\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
         "projectName": "Class 06th (Collections)",
-        "projectPath": "C:\\gitFolder\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\gitFolder\\Programming\\Class 06th (Collections)\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 06th (Collections)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

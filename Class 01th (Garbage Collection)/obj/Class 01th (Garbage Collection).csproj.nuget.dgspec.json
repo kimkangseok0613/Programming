@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitFolder\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj": {}
   },
   "projects": {
-    "C:\\gitFolder\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitFolder\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj",
         "projectName": "Class 01th (Garbage Collection)",
-        "projectPath": "C:\\gitFolder\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 01th (Garbage Collection)\\Class 01th (Garbage Collection).csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\gitFolder\\Programming\\Class 01th (Garbage Collection)\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 01th (Garbage Collection)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitFolder\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj": {}
   },
   "projects": {
-    "C:\\gitFolder\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitFolder\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj",
         "projectName": "Class 05th (Generalization)",
-        "projectPath": "C:\\gitFolder\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 05th (Generalization)\\Class 05th (Generalization).csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\gitFolder\\Programming\\Class 05th (Generalization)\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 05th (Generalization)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitFolder\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj": {}
   },
   "projects": {
-    "C:\\gitFolder\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitFolder\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj",
         "projectName": "Class 02th (Parameter Modifier)",
-        "projectPath": "C:\\gitFolder\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 02th (Parameter Modifier)\\Class 02th (Parameter Modifier).csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\gitFolder\\Programming\\Class 02th (Parameter Modifier)\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Class 02th (Parameter Modifier)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
