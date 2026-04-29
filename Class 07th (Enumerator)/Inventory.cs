@@ -4,10 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Serialization;
 
-namespace Program
-{
     internal class Inventory<T> : IEnumerable
     {
         public T [] list;
@@ -31,7 +28,7 @@ namespace Program
 
         public IEnumerator GetEnumerator()
         {
-            throw new NotImplementedException();
+            return new Enumerator<T>(list, count);
         }
     }
-}
+
