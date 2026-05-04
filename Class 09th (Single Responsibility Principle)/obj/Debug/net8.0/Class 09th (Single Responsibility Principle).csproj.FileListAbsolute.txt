@@ -1,0 +1,15 @@
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\bin\Debug\net8.0\Class 09th (Single Responsibility Principle).exe
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\bin\Debug\net8.0\Class 09th (Single Responsibility Principle).deps.json
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\bin\Debug\net8.0\Class 09th (Single Responsibility Principle).runtimeconfig.json
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\bin\Debug\net8.0\Class 09th (Single Responsibility Principle).dll
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\bin\Debug\net8.0\Class 09th (Single Responsibility Principle).pdb
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).GeneratedMSBuildEditorConfig.editorconfig
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).AssemblyInfoInputs.cache
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).AssemblyInfo.cs
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).csproj.CoreCompileInputs.cache
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).sourcelink.json
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).dll
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\refint\Class 09th (Single Responsibility Principle).dll
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).pdb
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\Class 09th (Single Responsibility Principle).genruntimeconfig.cache
+C:\gitFolder\TeamSandbox\Main\Assets\Programming\Class 09th (Single Responsibility Principle)\obj\Debug\net8.0\ref\Class 09th (Single Responsibility Principle).dll

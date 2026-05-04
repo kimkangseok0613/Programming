@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Program
 {
-    public class Persistence
+    internal class Sealant : Product
     {
-        List<User> users = new List<User>();
-        public void Save(User user)
+        public Sealant()
         {
-            users.Add(user);
+            price = 2500;
+            menual = "It's a Sealant";
         }
     }
 }

@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace Program
 {
-    internal class Authenticate
+    internal class Bread : Product
     {
-
+        public Bread()
+        {
+            price = 1000;
+            menual = "It's a Bread";
+        }
     }
 }
