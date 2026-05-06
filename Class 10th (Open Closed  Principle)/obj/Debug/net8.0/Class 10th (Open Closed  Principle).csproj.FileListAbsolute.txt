@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\bin\Debug\net8.0\Class 10th (Open Closed  Principle).exe
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\bin\Debug\net8.0\Class 10th (Open Closed  Principle).deps.json
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\bin\Debug\net8.0\Class 10th (Open Closed  Principle).runtimeconfig.json
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\bin\Debug\net8.0\Class 10th (Open Closed  Principle).dll
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\bin\Debug\net8.0\Class 10th (Open Closed  Principle).pdb
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).sourcelink.json
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).dll
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\refint\Class 10th (Open Closed  Principle).dll
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).pdb
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\Class 10th (Open Closed  Principle).genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\Class 10th (Open Closed  Principle)\obj\Debug\net8.0\ref\Class 10th (Open Closed  Principle).dll

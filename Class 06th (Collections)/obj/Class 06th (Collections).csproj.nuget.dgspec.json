@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {}
+    "C:\\Users\\User\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {}
   },
   "projects": {
-    "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {
+    "C:\\Users\\User\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
         "projectName": "Class 06th (Collections)",
-        "projectPath": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Class 06th (Collections)\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Programming\\Class 06th (Collections)\\Class 06th (Collections).csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Programming\\Class 06th (Collections)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

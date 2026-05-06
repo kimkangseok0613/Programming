@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Program
-{
+﻿
     internal abstract class Product : Sensor
     {
         protected int price;
@@ -18,4 +11,4 @@ namespace Program
             Console.WriteLine("----------------------------------------");
         }
     }
-}
+
