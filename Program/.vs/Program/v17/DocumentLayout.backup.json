@@ -1,40 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Programming\\Program\\",
+  "WorkspaceRootPath": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\user\\desktop\\programming\\program\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\user\\desktop\\programming\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56B97F86-8ECD-4F06-949C-8909C6FF17BD}|..\\Class 10th (Open Closed  Principle)\\Class 10th (Open Closed  Principle).csproj|c:\\users\\user\\desktop\\programming\\class 10th (open closed  principle)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56B97F86-8ECD-4F06-949C-8909C6FF17BD}|..\\Class 10th (Open Closed  Principle)\\Class 10th (Open Closed  Principle).csproj|c:\\users\\user\\desktop\\programming\\class 10th (open closed  principle)\\class 10th (open closed  principle).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\user\\desktop\\programming\\program\\sentinel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:sentinel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\user\\desktop\\programming\\program\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\user\\desktop\\programming\\program\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\user\\desktop\\programming\\program\\sellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:sellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\user\\desktop\\programming\\program\\talkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:talkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,127 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Character.cs*",
+              "RelativeToolTip": "Character.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4vz8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:21:51.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Class 10th (Open Closed  Principle)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Class 10th (Open Closed  Principle)\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Class 10th (Open Closed  Principle)\\Program.cs",
-              "RelativeToolTip": "..\\Class 10th (Open Closed  Principle)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:20:12.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class 10th (Open Closed  Principle)",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Class 10th (Open Closed  Principle)\\Class 10th (Open Closed  Principle).csproj",
-              "RelativeDocumentMoniker": "..\\Class 10th (Open Closed  Principle)\\Class 10th (Open Closed  Principle).csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Class 10th (Open Closed  Principle)\\Class 10th (Open Closed  Principle).csproj",
-              "RelativeToolTip": "..\\Class 10th (Open Closed  Principle)\\Class 10th (Open Closed  Principle).csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-06T12:20:08.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Talkable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\Talkable.cs",
-              "RelativeDocumentMoniker": "Talkable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\Talkable.cs",
-              "RelativeToolTip": "Talkable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:08:17.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Sellable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\Sellable.cs",
-              "RelativeDocumentMoniker": "Sellable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\Sellable.cs",
-              "RelativeToolTip": "Sellable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:07:36.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Damageable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\Damageable.cs",
-              "RelativeDocumentMoniker": "Damageable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\Damageable.cs",
-              "RelativeToolTip": "Damageable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:06:35.537Z",
+              "WhenOpened": "2026-05-07T11:15:27.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Sentinel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\Sentinel.cs",
-              "RelativeDocumentMoniker": "Sentinel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\Sentinel.cs",
-              "RelativeToolTip": "Sentinel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Title": "Grenade.cs",
+              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Grenade.cs",
+              "RelativeDocumentMoniker": "Grenade.cs",
+              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Grenade.cs",
+              "RelativeToolTip": "Grenade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:31:14.325Z",
+              "WhenOpened": "2026-05-07T11:15:12.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Guide.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\Guide.cs",
-              "RelativeDocumentMoniker": "Guide.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\Guide.cs*",
-              "RelativeToolTip": "Guide.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Knife.cs",
+              "RelativeDocumentMoniker": "Knife.cs",
+              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Knife.cs",
+              "RelativeToolTip": "Knife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:29:54.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\Seller.cs",
-              "RelativeDocumentMoniker": "Seller.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\Seller.cs",
-              "RelativeToolTip": "Seller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:25:28.992Z",
+              "WhenOpened": "2026-05-07T11:14:38.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\Program.cs",
+              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\Program.cs",
+              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA/wBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:25:15.862Z",
+              "WhenOpened": "2026-05-06T12:26:14.107Z",
               "EditorCaption": ""
             }
           ]
