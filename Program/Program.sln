@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class 10th (Open Closed  Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class 11th (Interface Segregation Principle)", "..\Class 11th (Interface Segregation Principle)\Class 11th (Interface Segregation Principle).csproj", "{926C5EC1-761D-4E9C-A47D-00EB9D8272CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class 12th (Dependency Inversion Principle)", "..\Class 12th (Dependency Inversion Principle)\Class 12th (Dependency Inversion Principle).csproj", "{3210E10D-9CD9-4C64-A74A-F022855927CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class 13th (Liskov Substitution Principle)", "..\Class 13th (Liskov Substitution Principle)\Class 13th (Liskov Substitution Principle).csproj", "{837D0AD0-1855-453A-B8AE-E6F63D5CB753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +171,30 @@ Global
 		{926C5EC1-761D-4E9C-A47D-00EB9D8272CC}.Release|x64.Build.0 = Release|Any CPU
 		{926C5EC1-761D-4E9C-A47D-00EB9D8272CC}.Release|x86.ActiveCfg = Release|Any CPU
 		{926C5EC1-761D-4E9C-A47D-00EB9D8272CC}.Release|x86.Build.0 = Release|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Debug|x86.Build.0 = Debug|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Release|x64.Build.0 = Release|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Release|x86.ActiveCfg = Release|Any CPU
+		{3210E10D-9CD9-4C64-A74A-F022855927CC}.Release|x86.Build.0 = Release|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Debug|x64.Build.0 = Debug|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Debug|x86.Build.0 = Debug|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Release|x64.ActiveCfg = Release|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Release|x64.Build.0 = Release|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Release|x86.ActiveCfg = Release|Any CPU
+		{837D0AD0-1855-453A-B8AE-E6F63D5CB753}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

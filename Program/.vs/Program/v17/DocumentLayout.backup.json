@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Programming\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\users\\administrator\\desktop\\programming\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|c:\\gitfolder\\teamsandbox\\main\\assets\\programming\\program\\grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD928612-F0C5-470B-8815-E74172E89EEC}|Program.csproj|solutionrelative:grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Character.cs",
-              "RelativeDocumentMoniker": "Character.cs",
-              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Character.cs*",
-              "RelativeToolTip": "Character.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAD4vz8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:21:51.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Weapon.cs",
-              "RelativeDocumentMoniker": "Weapon.cs",
-              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Weapon.cs",
-              "RelativeToolTip": "Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:15:27.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Grenade.cs",
-              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Grenade.cs",
-              "RelativeDocumentMoniker": "Grenade.cs",
-              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Grenade.cs",
-              "RelativeToolTip": "Grenade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:15:12.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Knife.cs",
-              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Knife.cs",
-              "RelativeDocumentMoniker": "Knife.cs",
-              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Knife.cs",
-              "RelativeToolTip": "Knife.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:14:38.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Programming\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\gitFolder\\TeamSandbox\\Main\\Assets\\Programming\\Program\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Programming\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIA/wBYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T12:26:14.107Z",
               "EditorCaption": ""
